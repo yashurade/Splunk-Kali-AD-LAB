@@ -1,5 +1,4 @@
 # Splunk-Kali-AD-LAB
-# Soclab Setup
 
 ## Overview
 
