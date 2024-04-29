@@ -49,6 +49,3 @@ Once the Soclab environment is set up, you can use it for various security-relat
 
 Contributions to this repository are welcome! If you have suggestions for improving the Soclab setup instructions or network diagram, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
