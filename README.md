@@ -16,7 +16,7 @@ This repository contains the setup instructions and network diagram for the Socl
 The network diagram above illustrates the architecture of the Soclab environment. It includes the following components:
 
 - Kali Linux: A virtual machine (VM) running the Kali Linux distribution, used for penetration testing and security assessments.
-- Windows Active Directory: A Windows Server VM configured with Active Directory services, including two user accounts (Yash and Hireme) for user authentication and administration.
+- Windows Active Directory(soclab.local): A Windows Server VM configured with Active Directory services, including two user accounts (Yash and Hireme) for user authentication and administration.
 - Leto-pc: A Windows client machine joined to the Active Directory domain.
 - Ubuntu Server: A Linux-based server VM hosting Splunk Enterprise for log management and security monitoring.
 
@@ -27,7 +27,7 @@ The network diagram above illustrates the architecture of the Soclab environment
 Before setting up the Soclab environment, make sure you have the following prerequisites:
 
 - VirtualBox: Install VirtualBox, a free and open-source virtualization platform, on your host machine.
-- Virtual Machine Images: Download the necessary virtual machine images for Kali Linux, Windows Server (with Active Directory), and Ubuntu Server with Splunk pre-installed.
+- Virtual Machine Images: Download the necessary virtual machine images for Kali Linux, Windows 10 pro,Windows Server (with Active Directory), and Ubuntu Server.
 - Network Configuration: Configure VirtualBox to set up a virtual network for the Soclab environment, including network adapters and DHCP settings.
 
 ### Installation Steps
